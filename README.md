@@ -1,5 +1,8 @@
 ## [Google I/O 2024 Puzzle](https://io.google/2024/puzzle/)
 
+<br>
+
+![puzzle](google-it-support.png)
 
 Break
 the loop
