@@ -2,7 +2,7 @@
 
 <br>
 
-![puzzle](google-it-support.png)
+![puzzle](io-puzzle-2024.png)
 
 Break
 the loop
